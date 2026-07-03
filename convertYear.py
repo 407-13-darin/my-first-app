@@ -3,4 +3,4 @@ st.title("แอปพลีเคชันแปลงปี พ.ศ. เป็
 
 bh_year=st.number_input("2553",value=2569)
 ce_year=bh_year-543
-st.hearder(f"ปีค.ศ. คือ : ce_year")
+st.hearder(f"ปีค.ศ. คือ : ce_year}")
