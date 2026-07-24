@@ -10,6 +10,7 @@ vat = price * 0.07
 st.header(f"• ราคาสุทธิ: {net_price:.2f} บาท")
 
 st.divider()
+
 st.write("นางสาวดารินทร์ ชูรัตน์ เลขที่ 13 ม.4/7")
 
 
